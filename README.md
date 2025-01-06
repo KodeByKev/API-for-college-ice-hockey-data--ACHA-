@@ -15,5 +15,5 @@ https://www.mozilla.org/en-US/firefox/windows/
 geckodriver download:
 https://github.com/mozilla/geckodriver
 
-specify your path to geckodriver.exe in the pipelines after download.
+copy & paste your path to geckodriver.exe in the pipelines once it has been downloaded.
 
