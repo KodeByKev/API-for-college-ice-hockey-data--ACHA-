@@ -1,4 +1,4 @@
-This API allows users to access the data on the ACHA website for data analysis in jupyter notebook.
+This API allows users to access the data on the ACHA website for data analysis with python.
 
 Firefox and geckodriver must be downloaded to run python code.
 
