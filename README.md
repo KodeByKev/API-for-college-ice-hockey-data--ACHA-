@@ -1,6 +1,6 @@
-This API allows users to access the data on the ACHA website for data analysis in jupyter notebook. 
+This API allows users to access the data on the ACHA website for data analysis in jupyter notebook.
 
-Firefox and geckodriver must be downloaded to compile data.
+Firefox and geckodriver must be downloaded to run python code.
 
 Firefox
 https://www.mozilla.org/en-US/firefox/windows/
