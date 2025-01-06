@@ -1,12 +1,17 @@
-This API allows users to access the data on the ACHA website for data analysis with python.
+This API allows users to access the data on the ACHA website for data analysis in python.
 
-Firefox and geckodriver must be downloaded to run python code.
 
-Firefox
+Firefox and geckodriver must be installed to run data pipelines.
+
+Firefox download:
 https://www.mozilla.org/en-US/firefox/windows/
 
-geckodriver 
+geckodriver download:
 https://github.com/mozilla/geckodriver
 
 
- a .csv option is included for compatibility with other analysis tools.
+ACHA website: 
+https://www.achahockey.org/stats/player-stats/all-teams/46?conference=8&division=-1&playertype=skater&position=skaters&rookie=no&sort=points&statstype=standard&page=1&league=1
+
+
+
