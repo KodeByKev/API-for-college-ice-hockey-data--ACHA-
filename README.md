@@ -6,13 +6,13 @@ Firefox and geckodriver must be installed to run data pipelines
 Steps:
 1. Download Firefox and geckodriver
 
-Firefox download:
+Firefox:
 https://www.mozilla.org/en-US/firefox/windows/
 
-geckodriver download:
+geckodriver:
 https://github.com/mozilla/geckodriver
 
-2. Extract geckodriver.exe and copy & paste its path in pipeline code
+2. Copy & paste your path to geckodriver.exe in pipeline code
    
 3. Run code chunk to gather data from ACHA website: 
 https://www.achahockey.org/
