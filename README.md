@@ -1,6 +1,7 @@
 This API allows users to analyze the data on the ACHA website with python
 
 ***Notice:
+
 Firefox and geckodriver must be installed to run data pipelines
 
 Firefox download:
